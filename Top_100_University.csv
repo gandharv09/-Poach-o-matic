@@ -1,0 +1,101 @@
+Rank,College,College_Nick,ID
+1,Princeton,Princeton,780
+2,Harvard,Harvard,399
+3,University of Chicago,University of Chicago,1085
+4,Yale,Yale,1222
+5,Columbia,Columbia,278
+6,Massachusetts Institute of Technology,MIT,580
+7,Stanford,Stanford,953
+8,University of Pennsylvania,Pennsylvania,1275
+9,Duke University,Duke,1350
+10,California Institute of Technology,CIT,148
+11,Dartmouth College,Dartmouth,1339
+12,Johns Hopkins University,JohnsHopkins,464
+13,Northwestern,Northwestern,709
+14,Brown University,Brown,137
+15,Cornell,Cornell,298
+16,Rice University,Rice,799
+17,Vanderbilt,Vanderbilt,4002
+18,University of Notre Dame, Notre_Dame,1576
+19,Washington University in St. Louis,Washington,1147
+20,Georgetown University,Georgetown,355
+21,Emory,Emory,340
+22,UC Berkeley,UCB,1072
+23,"University of California, Los Angeles",UCLA,1075
+24,University of Southern California,USC,1381
+25,Carnegie Mellon University,CMU,181
+26,University of Virginia,Virginia,1277
+27,Wake Forest University,Wake_Forest,1130
+28,University of Michigan,Michigan,1258
+29,Tufts University,Tufts,1040
+30,New York University,NYU,675
+31,University of North Carolina at Chapel Hill,UNC,1232
+32,Boston College,Boston,122
+33,College of William & Mary,William_Mary,269
+34,Brandeis University,Brandeis,129
+35,Georgia Institute of Technology,Georgia_Tech,361
+36,University of Rochester,Rochester,1331
+37,Boston University,Boston,124
+38,Case Western Reserve University,Case,186
+39,University of California Santa Barbara,UCSB,1077
+40,Northeastern,Northeastern,696
+41,Tulane University,Tulane,1041
+42,Rensselaer Polytechnic Institut,Rensselaer,795
+43,University of California Irvine,UCI,1074
+44,University of California San Diego,UCSD,1079
+45,University of Florida,UF,1100
+46,Lehigh,Lehigh,509
+47,Pepperdine ,Pepperdine ,759
+48,University of California Davis,UCD,1073
+49,University of Miami,UM,1241
+50,University of Wisconsin Madison,Wisconsin,1256
+51,Villanova University,Villanova,1236
+52,Pennsylvania State University,PSU,758
+53,University of Illinois at Urbana Champaign,UIUC,1112
+54,Ohio State University,Ohio,724
+55,University of Georgia,University_of_Georgia,1101
+56,George Washington University,George_Washington_University,353
+57,Purdue University,Purdue,783
+58,University of Connecticut,Connecticut,1091
+59,University of Texas at Austin,UTA,1255
+60,University of Washington,University_of_Washington,1530
+61,Brigham Young University,Young,135
+62,Fordham,Fordham,1325
+63,Southern Methodist University,SMU,927
+64,Syracuse University,Syracuse,992
+65,University of Maryland College Park,Maryland,1270
+66,Worcester Polytechnic Institute,Worcester,1220
+67,Clemson University,Clemson,242
+68,University of Pittsburgh,Pittsburgh,1247
+69,American University,American_University,32
+70,Rutgers University,Rutgers,825
+71,Stevens Institute of Technology,Stevens,982
+72,Texas A&M University,TAMU,1003
+73,University of Minnesota,Minnesota,1257
+74,Virginia Tech,Virginia_Tech,1349
+75,Baylor University,Baylor,90
+76,Colorado School of Mines,Colorado_School_of_Mines,274
+77,University of Massachusetts Amherst,UMA,3980
+78,Miami University,Miami_University,599
+79,Texas Christian University,Texas_Christian_University,1008
+80,University of Iowa,Iowa,1115
+81,Clark University,Clark,237
+82,Florida State University,FSU,1237
+83,Michigan State University,MSU,601
+84,North Carolina State University,NCSU,685
+85,University of California Santa Cruz,UCSC,1078
+86,University of Delaware,Delaware,1094
+87,Binghamton University,Binghamton,958
+88,University of Denver,Denver,1095
+89,University of Tulsa,Tulsa,3963
+90,Indiana University,Indiana,440
+91,Marquette University,Marquette,565
+92,University of Colorado,Colorado_Boulder,1087
+93,University of San Diego,USD,1340
+94,Drexel University,Drexel,1521
+95,Saint Louis University,Saint_Louis,850
+96,Yeshiva University,Yeshiva,1223
+97,Rochester Institute of Technology,Rochester,807
+98,Stony Brook University,SBU,971
+99,SUNY College of Environmental Science and Forestry,CESF,973
+100,University at Buffalo ,Buffalo,960
